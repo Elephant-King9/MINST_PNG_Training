@@ -5,6 +5,8 @@
 
 同时我也会将.png格式的数据集的压缩形式放到datasets文件中
 
+**主要是通过`ImageFolder`方法来实现的**
+
 ## 神经网络模型
 ![img.png](imgs/1.png)
 
